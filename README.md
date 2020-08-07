@@ -9,8 +9,8 @@ Micro http-server that allow just to download files.
 2. (optional) Change `PORT` variable in `srv/main.py` script. By default,
 `PORT=20202`.
 
-3. Run `srv/run.sh`, download files via link
-"http://\<address>:\<port>/\<file name>" and quit the server.
+3. Run `srv/run.sh`. Download files via link
+"http://\<address>:\<port>/\<file name>". Quit the server.
 
 ## License
 
