@@ -14,6 +14,6 @@ Micro http-server that allow just to download files.
 
 ## License
 
-***word_vectors*** is released under the Creative Commons License. See the
-[LICENSE](https://github.com/fostroll/word_vectors/blob/master/LICENSE) file
-for more details.
+***srv_zero*** is released under the Creative Commons License. See the
+[LICENSE](https://github.com/fostroll/srv_zero/blob/master/LICENSE) file for
+more details.
